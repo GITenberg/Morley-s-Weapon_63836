@@ -1,11 +1,16 @@
 _repo: Morley-s-Weapon_63836
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63836-h/images/cover.jpg
 creator:
   author:
     agent_name: Barefoot, D. W.
     gutenberg_agent_id: '52629'
     url: http://www.gutenberg.org/2009/agents/52629
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63836#Morley-s-Weapon
 gutenberg_issued: '2020-11-21'
 gutenberg_type: Text
 identifiers:
